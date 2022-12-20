@@ -1,9 +1,9 @@
-import './App.css';
+import Components from './components/index';
 
 function App() {
   return (
     <div className="App">
-      Todo Management App
+      <Components/>
     </div>
   );
 }
